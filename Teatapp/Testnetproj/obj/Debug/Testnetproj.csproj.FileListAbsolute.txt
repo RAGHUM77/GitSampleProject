@@ -1,0 +1,10 @@
+C:\From8686\GITLocal\Teatapp\Testnetproj\bin\Debug\Testnetproj.exe.config
+C:\From8686\GITLocal\Teatapp\Testnetproj\bin\Debug\Testnetproj.exe
+C:\From8686\GITLocal\Teatapp\Testnetproj\bin\Debug\Testnetproj.pdb
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.csprojAssemblyReference.cache
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.Form1.resources
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.Properties.Resources.resources
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.csproj.GenerateResource.cache
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.csproj.CoreCompileInputs.cache
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.exe
+C:\From8686\GITLocal\Teatapp\Testnetproj\obj\Debug\Testnetproj.pdb
